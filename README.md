@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, Im Devashish Gaikwad</h1>
-<h3 align="center">Entrepreneur || Machine Learning</h3>
+<h3 align="center">Entrepreneur || Java Developer</h3>
 
 <img align="right" alt="Ace" width="340" src="https://gifdb.com/images/high/ace-one-piece-laughing-sunset-2cf3puztep511gnn.gif">
 
