@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ML & AI**
 
-- 💬 Ask me about **Java,Spring, Spring Boot, Entrepreneurship**
+- 💬 Ask me about **Java, Python, Spring, Spring Boot, Entrepreneurship**
 
 - 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/devashish-gaikwad-8b527b227, Twitter: @Devashish9970, Email: devashishgaikwad8@gmail.com**
 
