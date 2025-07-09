@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, Im Devashish Gaikwad</h1>
-<h3 align="center">Entrepreneur || Java Developer</h3>
+<h3 align="center">Entrepreneur || Machine Learning (ML) Engineer</h3>
 
 <img align="right" alt="Ace" width="340" src="https://gifdb.com/images/high/ace-one-piece-laughing-sunset-2cf3puztep511gnn.gif">
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Spring framework project**
+- 👯 I’m looking to collaborate on **AI/ML project**
 
 - 🤝 I’m looking for help with **ML & AI**
 
-- 💬 Ask me about **Java, Python, Spring, Spring Boot, Entrepreneurship**
+- 💬 Ask me about **AI/ML, LLM, Python, Java, Entrepreneurship**
 
 - 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/devashish-gaikwad-8b527b227, Twitter: @Devashish9970, Email: devashishgaikwad8@gmail.com**
 
