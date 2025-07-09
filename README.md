@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML project**
 
-- 🤝 I’m looking for help with **ML & AI**
+- 🤝 I’m looking for help with **AI/ML, DL, LLM**
 
 - 💬 Ask me about **AI/ML, LLM, Python, Java, Entrepreneurship**
 
