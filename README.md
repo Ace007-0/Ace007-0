@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace007-0&label=Profile%20views&color=0e75b6&style=flat" alt="ace007-0" /> </p>
 
-- 🔭 I’m currently working on **my skills**
-
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working as an AI Researcher at **Vizuara AI Labs**
 
 - 👯 I’m looking to collaborate on **AI/ML project**
 
